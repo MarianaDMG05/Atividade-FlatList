@@ -23,13 +23,13 @@ export default [
         id: '4',
         nome: 'Margarida Pato',
         email: 'margaridapato@hotmal.com',
-        urlImagem: 'https://static.wikia.nocookie.net/disney/images/4/43/Daisydisney.jpg/revision/latest?cb=20150518021733&path-prefix=pt-br'
+        urlImagem: 'https://www.1papacaio.com.br/images/pngs/disney/margarida/margarida-001.png'
     },
     {
         id: '5',
         nome: 'Pluto',
         email: 'pluto@gmail.com',
-        urlImagem: 'https://upload.wikimedia.org/wikipedia/pt/4/4c/Pluto_%28Disney%29.jpg'
+        urlImagem: 'https://pngimg.com/d/pluto_disney_PNG10.png'
     }
 
 ];
